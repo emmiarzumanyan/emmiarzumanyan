@@ -1,14 +1,5 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-// 프로그램은 처음 실습 내용입니다.
-
-/*
-// 프로그램은 처음 실습 내용입니다.
-// 프로그램은 처음 실습 내용입니다.
- */
-
-
-
 void main() {
     String name = "엠미";    // 문자열 Data 선언 (대입문)
     int age = 20;              // 정수형 데이터
@@ -28,3 +19,4 @@ void main() {
     System.out.println();      // soutp <enter>
     System.out.println("엠미");
 }
+
